@@ -1,2 +1,2 @@
-# Cubex (Implementation in C)
-A simple code interpreter write in C
+# Cubex
+A simple code interpreter with implementations in Java and C
